@@ -9,8 +9,8 @@ menu_title = "Pour aller plus loin"
 
 [asset]
   title = "Logo Title"
-  image = "ditrit_logo.svg"
-  text = "DitRit"
+  image = "gandalf_logo.svg"
+  text = "Gandalf"
   url = "#"
 +++
 
