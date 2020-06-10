@@ -1,12 +1,12 @@
 +++
 fragment = "nav"
 #disabled = true
-date = "2018-05-17"
+date = "2020-06-10"
 weight = 0
 #background = ""
 
 [repo_button]
-  url = "https://github.com/ditrit"  
+  url = "https://github.com/ditrit/gandalf-core"  
   text = "Star" # default: "Star"
   icon = "fab fa-github" # defaults: "fab fa-github"
 

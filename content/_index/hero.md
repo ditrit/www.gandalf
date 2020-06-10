@@ -3,33 +3,40 @@ fragment = "hero"
 #disabled = true
 date = "2016-09-07"
 weight = 50
-background = "light" # can influence the text color
+background = "dark" # can influence the text color
 particles = true
 
 title = "Syna Theme"
-subtitle = "<b>Simplifiez-vous la transformation...!</b>"
+subtitle = "L'usine logicielle <b>agile</b> et **open source**"
 
 [header]
-  image = "rainbow.jpg"
-# rainbow : Image par <a href="https://pixabay.com/fr/users/12019-12019/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1894743">David Mark</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1894743">Pixabay</a>
-# platform : Image par <a href="https://pixabay.com/fr/users/StockSnap-894430/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2586078">StockSnap</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2586078">Pixabay</a>
+  image = "gandalf.jpg"
+# gandalf : Image par <a href="https://pixabay.com/fr/users/imaartist-11400164/">ImaArtist</a> de <a href="https://pixabay.com/fr/photos/assistant-fum%C3%A9e-dragon-pipe-4662019/">Pixabay</a>
+
 [asset]
   image = "gandalf_logo.svg"
   width = "500px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
-  text = "La communauté"
-  url = "#communaute"
+  text = "Commencer"
+  url = "get_started/get_started.md"
   color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Les projets"
-  url = "#projets"
+  text = "Fonctionnalités"
+  url = "#feature"
   color = "primary"
 
 [[buttons]]
-  text = "Les évènements"
-  url = "#events"
-  color = "success"
+  text = "Cas d'usage"
+  url = "#usecase"
+  color = "secondary"
+
+[[buttons]]
+  text = "Docs"
+  url = "#documentation"
+  color = "info"
+  
 +++
+Gandalf is a A Natural DevOps Application Life-cycle Framework.
